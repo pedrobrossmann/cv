@@ -1,0 +1,152 @@
+cv:
+  name: Pedro Emmanuel Brossmann Ribeiro
+  location: Brasil
+  email: pedrobrossmann@gmail.com
+  phone: tel:+55-62-98132-2127
+  social_networks:
+    - network: LinkedIn
+      username: pedrobrossmann
+    - network: GitHub
+      username: pedrobrossmann
+  sections:
+    sumário!:
+      - QA com mais de 6 anos de experiência e ansioso para continuar aprendendo. Eu tenho experiência com testes de API, WEB e Mobile. Meu maior orgulho foi o projeto de automação mobile para 5 marcas utilizando JAVA, APPIUM, Cucumber e PageObjects integrado a CI/CD com o Browserstack.
+      - Os amores da minha vida são minha filha, mulher e mãe. Gosto de jogar videogame, fazer churrasco e jardinagem. Trabalho em meu próprio escritório, acompanhado geralmente de um bom café.
+    Educação:
+      - institution: SENAC
+        area: Segurança da informação (Incompleto)
+      - institution: Twenty English
+        area: Línguas
+        start_date: 2023-01
+        end_date: 2024-12
+    Experiência:
+      - company: CWI Sofware
+        position: QA Analyst, integral
+        location: Goiás, Brasil
+        start_date: 2022-01
+        highlights:
+          - Realizar testes manuais e automatizados; Preparar a massa de dados e levantamento de cenários de testes;
+          - Prática de refinamento funcional e não funcional, planning e retrospectivas.
+          - Implementei automação mobile para 5 marcas utilizando JAVA, APPIUM, Cucumber e PageObjects integrado a CI/CD com o Browserstack.
+          - Implementei uma camada de geração de massa de dados via API reduzindo em 15% a execução da automação mobile.
+          - Implementação de esperas implícitas reduzindo os testes flaky em 90%.
+          - Realizei a automação de aproximadamente 90% dos testes regressivos. Reduzindo o tempo da regressão de 12h para 6h.
+          - Realização de TED Talks sobre a descrição de bugs e integração com browserstack.
+          - Me tornei líder do Chapter Mobile, realizo treinamento de novos colaboradores, responsável por refinar e definir as próximas issues, proponho melhorias para padrão de projeto e report da evolução do projeto.
+          - Participei na implementação de testes A/B para definição de melhores resultados.
+      - company: Sensi Tecnologia
+        position: QA Analyst, integral
+        location: Goiás, Brasil
+        start_date: 2020-01
+        end_date: 2022-01
+        highlights:
+          - Implementação do processo de testes automatizados de API e Web utilizando Cypress, Sorry Cypress e CI/CD
+          - Elaborar plano de testes, especificação e execução de testes manuais e automatizados;
+          - Preparar a massa de dados e levantamento de cenários de testes;
+          - Análise de requisitos
+          - Consulta via SQL para testes de API.
+          - Meu maior orgulho foi ter participado desde a análise de requisitos até a entrega do projeto Meu Social Post. O projeto foi feito em 3 meses e bateu o faturamento de 500k no primeiro ano.
+      - company: Pacto Soluções
+        position: QA Analyst, integral
+        location: Goiás, Brasil
+        start_date: 2018-06
+        end_date: 2020-09
+        highlights:
+          - Elaborar plano de testes
+          - Report de bugs e sugestões de melhorias
+          - Efetuar automação e execução dos casos de testes com Cypress.
+          - Mapeando melhorias e correções para serem aplicadas no software
+          - Migração do sistema de Treino do JSP para Angular.
+          - Meu maior orgulho foi ter participado da construção de um aplicativo desenvolvido em Swift e Kotlin, segui até a fase de implementação do App dentro das empresas.
+      - company: Pacto Soluções
+        position: Analista de Implantação de Software
+        location: Goiás, Brasil
+        start_date: 2015-01
+        end_date: 2018-06
+        highlights:
+          - Realização de treinamento para toda equipe;
+          - Entender a real necessidade do cliente e aplicar as melhores configurações e ferramentas;
+          - Meu maior orgulho foi ter realizado 100 implantações de clientes novos ou migrações de outros sistemas.
+      - company: Pacto Soluções
+        position: Analista de Suporte
+        location: Goiás, Brasil
+        start_date: 2013-06
+        end_date: 2014-12
+        highlights:
+          - Foco de analisar chamados abertos para garantir a execução correta de procedimentos.
+    Certificações e Cursos:
+      - label: CTFL
+        details: Certified Tester Foundation Level
+      - label: CTFL-AT
+        details: ISTQB® Certified Tester Foundation Level - Agile Tester (CTFL-AT)
+      - label: Descomplicando Testes de API Rest
+        details: Dominar o conhecimento que há por trás da arquitetura da API Rest, sua anatomia, o planejamento e as principais técnicas e abordagens de teste específicas
+      - label: Agilizei Bootcamp - Cypress
+        details: Criação de testes usando Cypress incluindo padrões de projetos, testes em múltiplos níveis, relatórios, integração contínua, boas práticas e muito mais.
+      - label: Testes de aplicações modernas com Cypress (Básico ao avançado)
+        details: Criação de testes usando Cypress incluindo padrões de projetos, testes em múltiplos níveis, relatórios, integração contínua, boas práticas e muito mais.
+    projetos:
+     - date: "2022-2024"
+       highlights:
+        - Aplicativos das marcas Arezzo, Schutz, Anacapri e Vans
+       name: Arezzo&co
+     - date: "2021"
+       highlights:
+        - E-commerce com foco em comerciantes locais
+       name: Oferta Play
+     - date: "2021"
+       highlights:
+        - Plataforma que fornece material para redes sociais.
+       name: Social Post
+    tecnologias:
+     - label: Linguagens de programação
+       details: Java, JavaScript, SQL
+     - label: Frameworks de automação
+       details: Cypress, Appium, Selenium, JUnit, Cucumber, Docker
+     - label: Ferramentas de testes
+       details: Postman, Testflight, Browserstack, AppCenter, Azure Test Plan, Firebase, Browser Developer Tools
+     - label: Controle de versão
+       details: GIT
+     - label: Metodologias Ágeis
+       details: Scrum, Kanban
+     - label: Controle de US/Tasks
+       details: Jira, Trello, Azure
+     - label: CI/CD
+       details: Jenkins, GitHub, GitLab, Azure   
+design:
+  theme: classic
+  font: Source Sans 3
+  font_size: 10pt
+  page_size: letterpaper
+  color: '#004f90'
+  disable_external_link_icons: false
+  disable_page_numbering: false
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  disable_last_updated_date: false
+  last_updated_date_style: Last updated in TODAY
+  header_font_size: 30 pt
+  text_alignment: justified
+  margins:
+    page:
+      top: 2 cm
+      bottom: 2 cm
+      left: 2 cm
+      right: 2 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.5 cm
+      education_degree_width: 1 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+  show_timespan_in:
+    - Experience
